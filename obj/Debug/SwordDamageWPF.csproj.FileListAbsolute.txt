@@ -1,0 +1,15 @@
+C:\Users\rober\OneDrive\projects\cs\SwordDamageWPF\SwordDamageWPF\bin\Debug\SwordDamageWPF.exe.config
+C:\Users\rober\OneDrive\projects\cs\SwordDamageWPF\SwordDamageWPF\bin\Debug\SwordDamageWPF.exe
+C:\Users\rober\OneDrive\projects\cs\SwordDamageWPF\SwordDamageWPF\bin\Debug\SwordDamageWPF.pdb
+C:\Users\rober\OneDrive\projects\cs\SwordDamageWPF\SwordDamageWPF\obj\Debug\SwordDamageWPF.csprojAssemblyReference.cache
+C:\Users\rober\OneDrive\projects\cs\SwordDamageWPF\SwordDamageWPF\obj\Debug\MainWindow.g.cs
+C:\Users\rober\OneDrive\projects\cs\SwordDamageWPF\SwordDamageWPF\obj\Debug\App.g.cs
+C:\Users\rober\OneDrive\projects\cs\SwordDamageWPF\SwordDamageWPF\obj\Debug\SwordDamageWPF_MarkupCompile.cache
+C:\Users\rober\OneDrive\projects\cs\SwordDamageWPF\SwordDamageWPF\obj\Debug\SwordDamageWPF_MarkupCompile.lref
+C:\Users\rober\OneDrive\projects\cs\SwordDamageWPF\SwordDamageWPF\obj\Debug\MainWindow.baml
+C:\Users\rober\OneDrive\projects\cs\SwordDamageWPF\SwordDamageWPF\obj\Debug\SwordDamageWPF.g.resources
+C:\Users\rober\OneDrive\projects\cs\SwordDamageWPF\SwordDamageWPF\obj\Debug\SwordDamageWPF.Properties.Resources.resources
+C:\Users\rober\OneDrive\projects\cs\SwordDamageWPF\SwordDamageWPF\obj\Debug\SwordDamageWPF.csproj.GenerateResource.cache
+C:\Users\rober\OneDrive\projects\cs\SwordDamageWPF\SwordDamageWPF\obj\Debug\SwordDamageWPF.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\projects\cs\SwordDamageWPF\SwordDamageWPF\obj\Debug\SwordDamageWPF.exe
+C:\Users\rober\OneDrive\projects\cs\SwordDamageWPF\SwordDamageWPF\obj\Debug\SwordDamageWPF.pdb
